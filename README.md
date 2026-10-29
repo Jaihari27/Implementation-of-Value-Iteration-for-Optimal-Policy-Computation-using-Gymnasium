@@ -220,14 +220,16 @@ env.close()
 
 #### For Normal description:
 
-<img width="233" height="72" alt="image" src="https://github.com/user-attachments/assets/6ccab3af-3f7f-4666-a619-c08c80961cfe" />
+<img width="372" height="125" alt="image" src="https://github.com/user-attachments/assets/78654a60-5269-4b45-9289-a2b487802591" />
+
 
 
 
 
 #### After changing the description:
 
-<img width="240" height="72" alt="image" src="https://github.com/user-attachments/assets/71005605-e916-4cde-bce8-273f01e04bb9" />
+<img width="436" height="127" alt="image" src="https://github.com/user-attachments/assets/de005b28-2d6a-4774-8ac9-72603c86b6b4" />
+
 
 
 
